@@ -1,0 +1,22 @@
+
+Designacao da bicicleta: 1 
+Distancia percorrida em km: 3.00 
+Descricao da avaria: furou um pneu 
+Designacao da bicicleta: 2 
+Distancia percorrida em km: 4.00 
+Descricao da avaria: sdgdf 
+Designacao da bicicleta: 1 
+Distancia percorrida em km: 2.00 
+Descricao da avaria: pneu 
+Designacao da bicicleta: 1 
+Distancia percorrida em km: 4.00 
+Descricao da avaria: furo 
+Designacao da bicicleta: 1459619154 
+Distancia percorrida em km: 0.00 
+Descricao da avaria: jante 
+Designacao da bicicleta: 2 
+Distancia percorrida em km: 0.00 
+Descricao da avaria: jante 
+Designacao da bicicleta: 1 
+Distancia percorrida em km: 2.00 
+Descricao da avaria: jante 

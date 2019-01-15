@@ -1,0 +1,253 @@
+# depslib dependency file v1.0
+1546274014 source:c:\users\gonçalo\dropbox\projeto\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"estruturas.h"
+
+1546273851 c:\users\gonçalo\dropbox\projeto\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1546972208 c:\users\gonçalo\dropbox\projeto\constantes.h
+
+1547484132 c:\users\gonçalo\dropbox\projeto\estruturas.h
+	"constantes.h"
+
+1547478665 source:c:\users\gonçalo\dropbox\projeto\funcoesbicicletas.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoesBicicletas.h"
+	"funcoesEmprestimos.h"
+
+1547478675 c:\users\gonçalo\dropbox\projeto\funcoesbicicletas.h
+	"estruturas.h"
+
+1547479592 source:c:\users\gonçalo\dropbox\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesBicicletas.h"
+	"funcoesEmprestimos.h"
+	"funcoes_Utentes.h"
+	"dadosEstatisticos.h"
+	"menus.h"
+
+1547483716 source:c:\users\gonçalo\dropbox\projeto\funcoesemprestimos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesBicicletas.h"
+	"funcoes_Utentes.h"
+
+1547311790 c:\users\gonçalo\dropbox\projeto\funcoesemprestimos.h
+	"estruturas.h"
+
+1547310401 c:\users\gonçalo\dropbox\projeto\funcoes_utentes.h
+	"estruturas.h"
+	"constantes.h"
+
+1547469330 source:c:\users\gonçalo\dropbox\projeto\funcoes_utentes.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes_auxiliares.h"
+	"funcoes_Utentes.h"
+	"funcoesEmprestimos.h"
+	"funcoesBicicletas.h"
+
+1546649998 source:c:\users\gonçalo\dropbox\projeto\calculos.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesBicicletas.h"
+
+1546372692 c:\users\gonçalo\dropbox\projeto\calculos.h
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+
+1546547788 c:\users\gonçalo\dropbox\projeto\menus.h
+
+1546967844 source:c:\users\gonçalo\dropbox\projeto\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+
+1547483696 source:c:\users\gonçalo\dropbox\projeto\dadosestatisticos.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesBicicletas.h"
+
+1547478015 c:\users\gonçalo\dropbox\projeto\dadosestatisticos.h
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+
+1547484265 source:c:\users\tomas\desktop\projeto\dadosestatisticos.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesBicicletas.h"
+
+1546273851 c:\users\tomas\desktop\projeto\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1546972208 c:\users\tomas\desktop\projeto\constantes.h
+
+1547484132 c:\users\tomas\desktop\projeto\estruturas.h
+	"constantes.h"
+
+1547478675 c:\users\tomas\desktop\projeto\funcoesbicicletas.h
+	"estruturas.h"
+
+1546274014 source:c:\users\tomas\desktop\projeto\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"estruturas.h"
+
+1547469330 source:c:\users\tomas\desktop\projeto\funcoes_utentes.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes_auxiliares.h"
+	"funcoes_Utentes.h"
+	"funcoesEmprestimos.h"
+	"funcoesBicicletas.h"
+
+1547310401 c:\users\tomas\desktop\projeto\funcoes_utentes.h
+	"estruturas.h"
+	"constantes.h"
+
+1547508862 c:\users\tomas\desktop\projeto\funcoesemprestimos.h
+	"estruturas.h"
+
+1547478665 source:c:\users\tomas\desktop\projeto\funcoesbicicletas.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoesBicicletas.h"
+	"funcoesEmprestimos.h"
+
+1547484211 source:c:\users\tomas\desktop\projeto\funcoesemprestimos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesBicicletas.h"
+	"funcoes_Utentes.h"
+
+1547479592 source:c:\users\tomas\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesBicicletas.h"
+	"funcoesEmprestimos.h"
+	"funcoes_Utentes.h"
+	"dadosEstatisticos.h"
+	"menus.h"
+
+1547478015 c:\users\tomas\desktop\projeto\dadosestatisticos.h
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+
+1546547788 c:\users\tomas\desktop\projeto\menus.h
+
+1546967844 source:c:\users\tomas\desktop\projeto\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+
+1547484265 source:c:\users\gonçalo\desktop\projeto\dadosestatisticos.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesBicicletas.h"
+
+1546273851 c:\users\gonçalo\desktop\projeto\funcoes_auxiliares.h
+	"constantes.h"
+	"estruturas.h"
+
+1546972208 c:\users\gonçalo\desktop\projeto\constantes.h
+
+1547484132 c:\users\gonçalo\desktop\projeto\estruturas.h
+	"constantes.h"
+
+1547478675 c:\users\gonçalo\desktop\projeto\funcoesbicicletas.h
+	"estruturas.h"
+
+1546274014 source:c:\users\gonçalo\desktop\projeto\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"estruturas.h"
+
+1547469330 source:c:\users\gonçalo\desktop\projeto\funcoes_utentes.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes_auxiliares.h"
+	"funcoes_Utentes.h"
+	"funcoesEmprestimos.h"
+	"funcoesBicicletas.h"
+
+1547310401 c:\users\gonçalo\desktop\projeto\funcoes_utentes.h
+	"estruturas.h"
+	"constantes.h"
+
+1547508862 c:\users\gonçalo\desktop\projeto\funcoesemprestimos.h
+	"estruturas.h"
+
+1547478665 source:c:\users\gonçalo\desktop\projeto\funcoesbicicletas.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoesBicicletas.h"
+	"funcoesEmprestimos.h"
+
+1547484211 source:c:\users\gonçalo\desktop\projeto\funcoesemprestimos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesBicicletas.h"
+	"funcoes_Utentes.h"
+
+1547479592 source:c:\users\gonçalo\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesBicicletas.h"
+	"funcoesEmprestimos.h"
+	"funcoes_Utentes.h"
+	"dadosEstatisticos.h"
+	"menus.h"
+
+1547478015 c:\users\gonçalo\desktop\projeto\dadosestatisticos.h
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+
+1546547788 c:\users\gonçalo\desktop\projeto\menus.h
+
+1546967844 source:c:\users\gonçalo\desktop\projeto\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+
